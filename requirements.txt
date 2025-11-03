@@ -1,0 +1,35 @@
+# Core ML libraries
+torch>=2.0.0
+torchaudio>=2.0.0
+torchvision>=0.15.0
+
+# Transformers and NLP
+transformers>=4.30.0
+tokenizers>=0.13.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+
+# Whisper
+openai-whisper>=20230314
+
+# Evaluation metrics
+jiwer>=3.0.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Jupyter notebook support
+ipykernel>=6.20.0
+jupyter>=1.0.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional audio dependencies
+ffmpeg-python>=0.2.0
